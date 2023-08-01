@@ -1,6 +1,5 @@
 # Prediction-Site
 > This repository hosts a decision tree-based website for predicting whether an individual should buy a computer or not. Leveraging the power of decision tree algorithms, this website offers a user-friendly platform for making informed purchasing decisions based on various input factors.
-![test](https://github.com/cantikaputria/Prediction-App/assets/85111014/fb407060-c8ba-449a-859e-375e4bbde23d)
 
 
 ### Key Features:
@@ -10,6 +9,8 @@
 4. **Visualizations**: The website offers intuitive visualizations of the decision tree model, making it easier for users to comprehend the underlying decision-making process.
 5. **Model Evaluation**: Explore model evaluation techniques to assess the decision tree's accuracy and performance.
 6. **Responsive Design**: The website is designed to be responsive, catering to various screen sizes and devices.
+
+![tettt](https://github.com/cantikaputria/Prediction-App/assets/85111014/09eeaac8-5bb6-49c2-bf4b-c87fe7f1096e)
 
 ### Dataset
 | id | age | income |student | credit rating | buy computer |
