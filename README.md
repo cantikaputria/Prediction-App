@@ -3,7 +3,7 @@
 ### Overview
 > This repository contains a web application that utilizes decision tree algorithms to predict whether an individual should buy a computer or not. The application is designed to help users make informed decisions based on various input factors, such as age, income, and purpose of use.
 
-### Features:
+### Features
 * **Decision Tree Model**: The heart of the website is the decision tree model, which processes input variables and provides predictions on whether buying a computer is advisable.
 * **Input Data Collection**: Users can input relevant data, such as age, income, and purpose of use, to facilitate the decision-making process.
 * **Data Preprocessing**: The repository includes data preprocessing scripts to clean and transform the input data, ensuring accurate predictions.
