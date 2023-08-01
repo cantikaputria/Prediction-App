@@ -3,7 +3,7 @@ This repository hosts a decision tree-based website for predicting whether an in
 
 ## Dataset
 | id | age | income |student | credit rating | buy computer |
-| ----------- | :---------: | ----------: | ----------: | ----------: | ----------: |
+| ----------- | :--------- | :----------: | :----------: | :----------: | ----------: |
 | 1 | youth | high | no | fair | no |
 | 2 | youth | high | no | excellent | yes |
 | 3 | middle_age | high | no | fair | yes |
